@@ -1,0 +1,9 @@
+Package: com.cryptic.ddevmode
+Name: Discord Developer Mode
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Discord Developer Mode Feature ported to iOS Discord Client.
+Maintainer: Cryptic
+Author: Cryptic
+Section: Tweaks
