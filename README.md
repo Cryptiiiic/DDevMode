@@ -1,4 +1,5 @@
 # DDevMode
+**This Tweak is discontinued**
 Tweak to port Discord Developer Mode Feature to iOS Discord Client
 
 ##### Credits:
